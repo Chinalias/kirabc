@@ -29,7 +29,7 @@ var prefix = "-";
 
 });
 
-const devs = ["331081268731052042"]
+const devs = ["273334684421718016"]
 
 const adminprefix = "-";
 
